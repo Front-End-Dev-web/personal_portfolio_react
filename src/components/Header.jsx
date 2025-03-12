@@ -11,19 +11,19 @@ export default function Header(){
     <div className="nav-links">
       <ul>
         <li className="li-item">
-          <a href="#">Home</a>
+          <a href="/#">Home</a>
         </li>
         <li className="li-item">
-          <a href="#about">About Us</a>
+          <a href="/#about">About Us</a>
         </li>
         <li className="li-item">
-          <a href="#services">Service</a>
+          <a href="/#services">Service</a>
         </li>
         <li className="li-item">
-          <a href="#portfolio">Portfolio</a>
+          <a href="/#portfolio">Portfolio</a>
         </li>
         <li className="li-item">
-          <a href="#blogs">Blog</a>
+          <a href="/#blogs">Blog</a>
         </li>
       </ul>
     </div>

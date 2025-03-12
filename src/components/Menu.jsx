@@ -27,7 +27,7 @@ export default function Menu(){
               </div>
               <div className="hero-button">
                 <button>Hire Me</button>
-                <a href="#portfolio">Portfolio</a>
+                <a href="/#portfolio">Portfolio</a>
               </div>
               <div className="hero-cards">
                 <div className="card1">
