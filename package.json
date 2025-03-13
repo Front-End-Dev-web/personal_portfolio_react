@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://github.com/Front-End-Dev-web/personal_portfolio_react.git",
+  "homepage": "https://github.com/Front-End-Dev-web/personal_portfolio_react.git",
   "name": "react-site",
   "version": "0.1.0",
   "private": false,
@@ -11,12 +11,13 @@
     "bootstrap": "^5.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-manifest": "^1.0.5",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
-"deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
